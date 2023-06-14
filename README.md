@@ -16,7 +16,8 @@ The aim of this project is to demonstrate how to convert an image to grayscale u
 ## Output:
 
 ### Input file:
-![241899787-528d64bb-4214-46d3-8638-efd06a6c77f0](https://github.com/212220230020-Grahamstanes/PCA---Mini-Project-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD/assets/75235150/34c77549-f4d8-466e-a7e6-3421386f3a40)
+
+![photo-1503023345310-bd7c1de61c7d](https://github.com/212220230020-Grahamstanes/PCA---Mini-Project-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD/assets/75235150/fe8987d3-a7b6-4d07-9d00-566ebaca52cf)
 
 
 
